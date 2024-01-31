@@ -2,6 +2,7 @@
 #PRODIGY INFOTECH
 
 Stopwatch with Lap Time - HTML, CSS, JavaScript
+
 This project is a simple yet effective stopwatch application developed using HTML, CSS, and JavaScript. It provides users with basic stopwatch functionality along with the ability to record lap times. Whether you're timing your workout, tracking laps in a race, or simply measuring elapsed time, this stopwatch has you covered.
 
 Features:
